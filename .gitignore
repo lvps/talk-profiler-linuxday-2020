@@ -1,0 +1,11 @@
+.idea/
+mappatore/out
+mappatore/.*
+slide/*.aux
+slide/*.log
+slide/*.synctex.*
+slide/*.nav
+slide/*.snm
+slide/*.toc
+viatore/viatore.pro.user
+viatore/input/
